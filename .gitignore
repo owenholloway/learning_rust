@@ -1,2 +1,6 @@
 **/out/**
 **/target/**
+.idea/.gitignore
+.idea/learnings.iml
+.idea/modules.xml
+.idea/vcs.xml
